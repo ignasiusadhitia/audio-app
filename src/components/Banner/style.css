@@ -1,0 +1,30 @@
+.banner {
+  display: flex;
+  margin: 7px;
+  height: 178px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.wrapper {
+  display: flex;
+  margin: 20px;
+}
+
+.title {
+  display: flex;
+}
+
+.text {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  color: #0acf83;
+  margin-right: 12px;
+}
+
+.wrapper-3 {
+  display: flex;
+}

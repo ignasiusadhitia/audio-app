@@ -1,0 +1,39 @@
+.auth-container {
+  background-image: url("./image-10.svg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.search-box {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  height: 45px;
+  width: 100%;
+  border: 1px solid #bababa;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.text2 {
+  display: flex;
+  justify-content: center;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.forgot {
+  font-weight: bold;
+}
+
+.sign-up {
+  font-weight: bold;
+  color: #0acf83;
+}

@@ -1,0 +1,24 @@
+.badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: static;
+  height: 25px;
+  margin: 10px;
+  font-family: "DM Sans";
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.true {
+  background: #0acf83;
+  border-radius: 30px;
+  color: #ffffff;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.false {
+  color: #7f7f7f;
+}

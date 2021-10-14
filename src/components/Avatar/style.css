@@ -1,0 +1,17 @@
+.avatar {
+  position: absolute;
+  cursor: pointer;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.large {
+  width: 75px;
+  height: 75px;
+}
+.small {
+  width: 35px;
+  height: 35px;
+}
