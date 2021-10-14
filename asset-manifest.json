@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/audio-app/static/css/main.541de45c.chunk.css",
+    "main.js": "/audio-app/static/js/main.9354d749.chunk.js",
+    "main.js.map": "/audio-app/static/js/main.9354d749.chunk.js.map",
+    "runtime-main.js": "/audio-app/static/js/runtime-main.b2f18b6e.js",
+    "runtime-main.js.map": "/audio-app/static/js/runtime-main.b2f18b6e.js.map",
+    "static/js/2.da340c9a.chunk.js": "/audio-app/static/js/2.da340c9a.chunk.js",
+    "static/js/2.da340c9a.chunk.js.map": "/audio-app/static/js/2.da340c9a.chunk.js.map",
+    "static/js/3.90c05034.chunk.js": "/audio-app/static/js/3.90c05034.chunk.js",
+    "static/js/3.90c05034.chunk.js.map": "/audio-app/static/js/3.90c05034.chunk.js.map",
+    "index.html": "/audio-app/index.html",
+    "static/css/main.541de45c.chunk.css.map": "/audio-app/static/css/main.541de45c.chunk.css.map",
+    "static/js/2.da340c9a.chunk.js.LICENSE.txt": "/audio-app/static/js/2.da340c9a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/audio-app/static/media/SFProText-Semibold.fee27977.ttf",
+    "static/media/arrow-right.bbd97080.svg": "/audio-app/static/media/arrow-right.bbd97080.svg",
+    "static/media/avatar.31b6e0c1.svg": "/audio-app/static/media/avatar.31b6e0c1.svg",
+    "static/media/style.css": "/audio-app/static/media/image-10.84ac3793.svg",
+    "static/media/image-5.0c6620c9.svg": "/audio-app/static/media/image-5.0c6620c9.svg",
+    "static/media/left-dark.de7970ae.svg": "/audio-app/static/media/left-dark.de7970ae.svg",
+    "static/media/left-light.7fbb696d.svg": "/audio-app/static/media/left-light.7fbb696d.svg",
+    "static/media/logo-2.022a3a9b.svg": "/audio-app/static/media/logo-2.022a3a9b.svg",
+    "static/media/logo.11a99e76.svg": "/audio-app/static/media/logo.11a99e76.svg",
+    "static/media/menu-variant.e1d1f915.svg": "/audio-app/static/media/menu-variant.e1d1f915.svg",
+    "static/media/right-dark.7fe03b9a.svg": "/audio-app/static/media/right-dark.7fe03b9a.svg",
+    "static/media/right-light.3bb8d723.svg": "/audio-app/static/media/right-light.3bb8d723.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2f18b6e.js",
+    "static/js/2.da340c9a.chunk.js",
+    "static/css/main.541de45c.chunk.css",
+    "static/js/main.9354d749.chunk.js"
+  ]
+}
