@@ -1,10 +1,10 @@
 # audio-app
 
-An online shopping audio gears mobile app
+An online audio gears shopping mobile app
 
 ## Features
 
-Find and pick your audio gears
+Find, pick, and buy your audio gears
 
 ### Project setup
 
